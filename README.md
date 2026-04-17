@@ -25,7 +25,7 @@ I usually listen to random music on YouTube and often find a song I want to hear
 - **SVG & CSS** (Icon Design and UI Alignment)
 
 ---
-*Created by a Music Lover 🎵*
+
 
 🔁 YouTube Auto Looper
 Custom Browser Extension for Seamless Music Experience
@@ -57,3 +57,6 @@ Javascript (Vanilla JS)
 JSON (Manifest V3)
 
 SVG & CSS (Icon Design and UI Alignment)
+
+
+*Created by a Music Lover 🎵*
