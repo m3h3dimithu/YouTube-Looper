@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Auto Looper",
+  "version": "1.0",
+  "description": "Automatically loops YouTube videos with a custom button.",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_icon": "icon.png",
+    "default_title": "YouTube Auto Looper"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/watch*"],
+      "js": ["content.js"]
+    }
+  ]
+}
